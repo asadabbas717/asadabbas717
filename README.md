@@ -1,60 +1,32 @@
 # Asad Abbas
 
-**Software Engineer · BS Software Engineering, UMT Lahore**
+**Software Engineer · Karachi, Pakistan**
 
-I build Python developer tools, desktop applications, and full-stack/mobile software. My work focuses on clear architecture, reliable data handling, testing, and deliberate releases. Open to entry-level and junior software engineering opportunities.
+I build Python tools and practical desktop, web and mobile applications. My experience combines independent product development with client software delivery and internships. BS Software Engineering, UMT Lahore (July 2025). Open to junior software engineering opportunities.
 
-## Featured projects
+[Portfolio](https://asadabbas717.github.io/) · [Download CV](https://asadabbas717.github.io/assets/Asad-Abbas-Software-Engineer-CV.pdf) · [LinkedIn](https://www.linkedin.com/in/asadabbas717/) · [Email](mailto:asadabbasbusiness@gmail.com)
 
-### 1. [RepoLens](https://github.com/asadabbas717/RepoLens)
+## Selected work
 
-A published Python CLI for deterministic, evidence-backed repository assessment. Typed analyzers feed transparent scoring and console, JSON, and standalone HTML reports without executing target code.
+| Project | What I built | Explore |
+| --- | --- | --- |
+| **RepoLens** | Published Python CLI for deterministic repository analysis and evidence-backed reports. | [Source](https://github.com/asadabbas717/RepoLens) · [PyPI](https://pypi.org/project/repolens-engineering/) |
+| **Vendiqo** | Offline retail application with transactional inventory, credit/collections, returns and recovery. | [Case study](https://asadabbas717.github.io/case-studies.html#vendiqo) |
+| **Loopnest** | React Native/Supabase conversations and private media with tested participant access rules. | [Source](https://github.com/asadabbas717/loopnest) |
+| **InternLog PK** | Offline web logbook with working-time totals, printable reports and validated backups. | [Live app](https://asadabbas717.github.io/internlog-pk/) · [Source](https://github.com/asadabbas717/internlog-pk) |
+| **Cineyra** | Full-stack film/TV discovery with account isolation and deterministic plus optional AI recommendations. | [Case study](https://asadabbas717.github.io/case-studies.html#cineyra) |
 
-- Published on [PyPI](https://pypi.org/project/repolens-engineering/) as `repolens-engineering` under Apache-2.0.
-- Windows/Linux CI on Python 3.13/3.14, with OIDC Trusted Publishing.
-- [Architecture](https://github.com/asadabbas717/RepoLens/blob/main/docs/architecture.md) and [scope/limitations](https://github.com/asadabbas717/RepoLens#safety-and-limitations) are documented; static scores do not certify correctness or security.
+## Experience
 
-```bash
-python -m pip install repolens-engineering
-repolens scan .
-```
+- **Independent Software Developer — Qashoryx, June 2026–present:** gathered requirements and deployed offline software for a shop in Ranipur; continue feature work and defect resolution. [Project story](https://asadabbas717.github.io/case-studies.html#qashoryx).
+- **Kaizen Hive — Web Development Intern:** HTML/CSS/JavaScript assignments and introductory Node.js/Express. [Work](https://github.com/asadabbas717/kaizenhive-web-development-internship).
+- **Internee.pk — React Native Intern:** two-month virtual internship building Expo assignment prototypes. [Example](https://github.com/asadabbas717/InternProfileApp).
+- **Developers Hub Corporation — Android Development Intern, June–July 2025:** six-week remote Java/Firebase internship. [Archived Android work](https://github.com/asadabbas717/loopnest/tree/archive/pre-rebuild-2026-10-21/app).
 
-### 2. [Vendiqo](https://asadabbas717.github.io/case-studies.html#vendiqo)
+## Core skills
 
-An offline Windows retail application connecting inventory, sales, credit/collections, referenced returns, reservations, supplier payments, and recovery. Python, Qt, and SQLite; latest hosted Windows quality gate passed. Private source is represented by a public engineering case study. Delivery remains unsigned, with hardware acceptance pending.
+Python · TypeScript/JavaScript · SQL · React · React Native/Expo · Qt · Django · PostgreSQL · SQLite · automated testing · GitHub Actions
 
-### 3. [Cineyra](https://asadabbas717.github.io/case-studies.html#cineyra)
+More work: [SurfaceDiff](https://github.com/asadabbas717/a2ui-surface-diff) · [SafarWise](https://github.com/asadabbas717/safarwise) · [PyNivo](https://github.com/asadabbas717/pynivo) · [PhishGuard modernization](https://github.com/FahadHusxain/PhishGuard-Backend) (originated by Fahad Hussain; modernization lead/co-maintainer).
 
-A private full-stack film/TV discovery MVP using React, TypeScript, Supabase, and PostgreSQL. Durable taste and temporary viewing context feed hard filters, deterministic ranking, and optional OpenRouter reasoning. Work includes ownership policies, transactional preference reconciliation, export, and account deletion. Latest CI passed; public-launch acceptance remains open.
-
-### 4. [PhishGuard](https://github.com/FahadHusxain/PhishGuard-Backend)
-
-Backend modernization across Django APIs, PostgreSQL/Redis, privacy-aware threat intelligence, container recovery, and reproducible ML evaluation. **Originated by Fahad Hussain; I am the modernization lead/co-maintainer.** New ML behavior remains shadow-only.
-
-### 5. [SafarWise](https://github.com/asadabbas717/safarwise)
-
-A React Native/Expo app for estimating travel fuel costs in Pakistan: offline manual-distance estimates, route lookup, dated fuel-price benchmarks, vehicle profiles, trip history, and validated backup/restore. Tested by me on a physical Android phone.
-
-- [Full hosted quality gate passed on 15 October 2026](https://github.com/asadabbas717/safarwise/actions/runs/38778011432), including tests, Expo checks, bundle exports, and dependency-security verification.
-- Security checks verify pinned source backports and live registry findings; this is not a claim of zero raw npm audit findings.
-- Android preview; broader device acceptance and store release remain open. Estimates exclude tolls and traffic; return trips double outbound distance.
-
-## More work
-
-[Qashoryx](https://asadabbas717.github.io/case-studies.html#qashoryx) · [PyNivo](https://github.com/asadabbas717/pynivo) · [Spenvera](https://asadabbas717.github.io/case-studies.html#spenvera) · [Fixloom](https://asadabbas717.github.io/case-studies.html#fixloom)
-
-Spenvera is an offline budgeting application with SQLite migrations, linked payments, reviewed cycle carry-forward, and backup validation. I have also tested it on a physical Android phone; store publication remains pending. Internship exercises remain separate from featured products.
-
-## Skills
-
-Python · JavaScript/TypeScript · SQL · React · React Native/Expo · Qt · Django · PostgreSQL · SQLite · pytest · Vitest/Jest · GitHub Actions
-
-## Internships
-
-- **Kaizen Hive — Web Development Intern:** completed task-based web assignments using HTML, CSS, JavaScript and introductory Node.js/Express. Completion certificate issued 28 August 2026. [Assignments](https://github.com/asadabbas717/kaizenhive-web-development-internship).
-- **Internee.pk — React Native Intern (virtual, two months):** completed React Native/Expo prototypes for [local profiles and QR sharing](https://github.com/asadabbas717/InternProfileApp), a [demo-data analytics dashboard/PDF export](https://github.com/asadabbas717/SocialMediaDashboard), and [locally persisted lesson progress](https://github.com/asadabbas717/InterneeLMSApp). The participation certificate states two-month internship completion; these are learning prototypes.
-- **Developers Hub Corporation — Android development internship (remote, six weeks):** Java/Firebase social-app work. [Original Android implementation](https://github.com/asadabbas717/loopnest/tree/main/app).
-
-[Portfolio](https://asadabbas717.github.io/) · [LinkedIn](https://www.linkedin.com/in/asadabbas717/) · [Email](mailto:asadabbasbusiness@gmail.com)
-
-Project status and verification reviewed 15 October 2026. Private projects link to sanitized case studies; source, credentials, business records, and user data remain private.
+Private projects link to public case studies. Product and release status are documented with each project.
