@@ -27,6 +27,16 @@ I build Python tools and practical desktop, web and mobile applications. My expe
 
 Python · TypeScript/JavaScript · SQL · React · React Native/Expo · Qt · Django · PostgreSQL · SQLite · automated testing · GitHub Actions
 
-More work: [SurfaceDiff](https://github.com/asadabbas717/a2ui-surface-diff) · [SafarWise](https://github.com/asadabbas717/safarwise) · [PyNivo](https://github.com/asadabbas717/pynivo) · [PhishGuard modernization](https://github.com/FahadHusxain/PhishGuard-Backend) (originated by Fahad Hussain; modernization lead/co-maintainer).
+## Additional projects
+
+| Project | Focus | Explore |
+| --- | --- | --- |
+| **SurfaceDiff** | Released Python CLI for offline A2UI structural regression testing: validate, snapshot and compare reviewed baselines. | [v1.0.0 GitHub alpha](https://github.com/asadabbas717/a2ui-surface-diff/releases/tag/v1.0.0) · [Source](https://github.com/asadabbas717/a2ui-surface-diff) |
+| **SafarWise** | React Native/Expo fuel-cost estimates, saved trips and validated backup/restore; tested on Android. | [Source](https://github.com/asadabbas717/safarwise) |
+| **PyNivo** | Offline Python desktop editor with separate-process execution, lessons and session recovery. | [Source / preview](https://github.com/asadabbas717/pynivo) |
+| **PhishGuard** | Django backend modernization, threat intelligence and reproducible ML evaluation. Originated by Fahad Hussain; modernization lead/co-maintainer. | [Source](https://github.com/FahadHusxain/PhishGuard-Backend) |
+| **Spenvera** | Local budgeting with linked payments, cycle carry-forward and backup validation. | [Case summary](https://asadabbas717.github.io/case-studies.html#spenvera) |
+| **Fixloom** | Repair intake, job history, payments and PDF job sheets. | [Case summary](https://asadabbas717.github.io/case-studies.html#fixloom) |
+
 
 Private projects link to public case studies. Product and release status are documented with each project.
