@@ -12,7 +12,7 @@ I build Python tools and practical desktop, web and mobile applications. My expe
 | --- | --- | --- |
 | **RepoLens** | Published Python CLI for deterministic repository analysis and evidence-backed reports. | [Source](https://github.com/asadabbas717/RepoLens) · [PyPI](https://pypi.org/project/repolens-engineering/) |
 | **Vendiqo** | Offline retail application with transactional inventory, credit/collections, returns and recovery. | [Case study](https://asadabbas717.github.io/case-studies.html#vendiqo) |
-| **Loopnest** | React Native/Supabase conversations and private media with tested participant access rules. | [Source](https://github.com/asadabbas717/loopnest) |
+| **Loopnest** | React Native/Supabase conversations, private media and delivery/read indicators with tested participant access rules. | [Source](https://github.com/asadabbas717/loopnest) |
 | **InternLog PK** | Offline web logbook with working-time totals, printable reports and validated backups. | [Live app](https://asadabbas717.github.io/internlog-pk/) · [Source](https://github.com/asadabbas717/internlog-pk) |
 | **Cineyra** | Full-stack film/TV discovery with account isolation and deterministic plus optional AI recommendations. | [Case study](https://asadabbas717.github.io/case-studies.html#cineyra) |
 
